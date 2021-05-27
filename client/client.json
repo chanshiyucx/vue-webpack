@@ -1,0 +1,20 @@
+{
+  "Touhou": {
+    "name": "東方Project",
+    "styleDir": "Touhou",
+    "imageDir": "Touhou",
+    "routerDir": "Touhou",
+    "setting": {
+      "motto": "灵域幽梦，梦想天生"
+    }
+  },
+  "Genshin": {
+    "name": "原神",
+    "styleDir": "Genshin",
+    "imageDir": "Genshin",
+    "routerDir": "Genshin",
+    "setting": {
+      "motto": "甘雨辞旧岁，明霄升海平"
+    }
+  }
+}
